@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
   </a>
@@ -52,10 +52,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rehanuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="rehanuzzaman" />
-</p>
-
 ### 🚀 About Me
 
 - 🔝 Currently working on **Web Projects**
@@ -80,6 +76,12 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanuzzaman&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehanuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="rehanuzzaman" />
 </p>
 
 ---
