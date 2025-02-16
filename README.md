@@ -19,26 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rehanuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="rehanuzzaman" />
-</p>
-
-### 🚀 About Me
-
-- 🔝 Currently working on **Web Projects**
-- 🌱 Learning **Full Stack Web Development**
-- 👯 Looking to collaborate on **Open Source & Tech Projects**
-- 🤝 Seeking guidance on **Advanced JavaScript & Backend Development**
-- 👨‍💻 Check out my projects: [GitHub](https://github.com/rehanuzzaman)
-- 📝 I write on **Tech & Innovation**: [LinkedIn Newsletter](https://www.linkedin.com/newsletters/daily-tags-trails-7285706490928152576/)
-- 💬 Ask me about **C, C++, Arduino, HTML, CSS, Tailwind, Daisy UI**
-- 📧 Reach me at **hello@rehanuzzaman.com**
-- 🗄 Know more about me: [Portfolio](https://www.rehanuzzaman.com)
-- ⚡ Fun fact: **I can write code on pen and paper 😆**
-
----
-
-### 🛠️ Tech Stack & Tools:
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50"/>
@@ -71,6 +51,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehanuzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="rehanuzzaman" />
+</p>
+
+### 🚀 About Me
+
+- 🔝 Currently working on **Web Projects**
+- 🌱 Learning **Full Stack Web Development**
+- 👯 Looking to collaborate on **Open Source & Tech Projects**
+- 🤝 Seeking guidance on **Advanced JavaScript & Backend Development**
+- 👨‍💻 Check out my projects: [GitHub](https://github.com/rehanuzzaman)
+- 📝 I write on **Tech & Innovation**: [LinkedIn Newsletter](https://www.linkedin.com/newsletters/daily-tags-trails-7285706490928152576/)
+- 💬 Ask me about **C, C++, Arduino, HTML, CSS, Tailwind, Daisy UI**
+- 📧 Reach me at **hello@rehanuzzaman.com**
+- 🗄 Know more about me: [Portfolio](https://www.rehanuzzaman.com)
+- ⚡ Fun fact: **I can write code on pen and paper 😆**
 
 ---
 
