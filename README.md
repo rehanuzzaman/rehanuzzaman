@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="480256828_1171999574932667_1203524620922346528_n.jpg" alt="Rehanuz Zaman Banner">
+  <img src="banner.png" alt="Rehanuz Zaman Banner">
 </p>
 
 <h1 align="center">Hi, I'm Rehan 👋</h1>
